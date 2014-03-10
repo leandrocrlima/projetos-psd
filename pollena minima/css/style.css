@@ -38,3 +38,10 @@ nav ul li {
 .com_fundo {
 	background: url('../img/fundo.png') no-repeat;
 }
+footer h1 {
+	color: #667d1e;
+}
+footer p {
+	color: #acacab;
+	font-size: 10px;
+}
