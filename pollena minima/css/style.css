@@ -1,0 +1,13 @@
+@charset "utf-8";
+body {
+    background: url('../img/bg.jpg') no-repeat top center;
+}
+.wrapper {
+    width: 939px;
+    height: 559px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 30px auto 0;
+    background-color: #f1f0f0;
+}
