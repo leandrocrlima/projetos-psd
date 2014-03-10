@@ -45,3 +45,10 @@ footer p {
 	color: #acacab;
 	font-size: 10px;
 }
+.shadow {
+	background: url('../img/shadow.png') no-repeat center;
+	margin: 0 auto;
+	width: 939px;
+	height: 26px;
+	margin-top: 50px;
+}
