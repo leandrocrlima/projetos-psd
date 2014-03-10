@@ -14,11 +14,13 @@ body {
 header h1 {
 	text-indent: -9999px;
 	width: 157px;
+	margin-left: 20px;
 	height: 74px;
 	background: url('../img/logo.png') no-repeat;
 }
 nav {
 	width: 157px;
+	margin-top: 30px;
 }
 nav ul li {
 	width: 197px;
