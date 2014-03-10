@@ -2,6 +2,13 @@
 body {
     background: url('../img/bg.jpg') no-repeat top center;
 }
+a {
+	text-decoration: none;
+	color: #acacab;
+}
+a:hover {
+	color: #667d1e;
+}
 .wrapper {
     width: 939px;
     height: 559px;
