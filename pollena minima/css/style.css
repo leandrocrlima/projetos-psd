@@ -11,3 +11,9 @@ body {
     margin: 30px auto 0;
     background-color: #f1f0f0;
 }
+header h1 {
+	text-indent: -9999px;
+	width: 157px;
+	height: 74px;
+	background: url('../img/logo.png') no-repeat;
+}
