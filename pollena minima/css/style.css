@@ -17,3 +17,15 @@ header h1 {
 	height: 74px;
 	background: url('../img/logo.png') no-repeat;
 }
+nav {
+	width: 157px;
+}
+nav ul li {
+	width: 197px;
+	height: 45px;
+	text-align: center;
+	line-height: 2;
+}
+.com_fundo {
+	background: url('../img/fundo.png') no-repeat;
+}
