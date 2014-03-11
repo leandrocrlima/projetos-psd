@@ -112,3 +112,6 @@ ul.social li {
 	height: 26px;
 	margin-top: 50px;
 }
+.oculta {
+	display: none;
+}
