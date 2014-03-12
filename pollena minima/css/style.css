@@ -51,7 +51,7 @@ nav ul li a {
 .com_fundo {
 	background: url('../img/fundo.png') no-repeat;
 }
-section#main {
+section.main {
 	background: url('../img/img1.png') no-repeat;
 	width: 726px;
 	height: 547px;
