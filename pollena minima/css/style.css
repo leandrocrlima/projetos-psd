@@ -51,14 +51,27 @@ nav ul li a {
 .com_fundo {
 	background: url('../img/fundo.png') no-repeat;
 }
-section.main {
-	background: url('../img/img1.png') no-repeat;
+section {
 	width: 726px;
 	height: 547px;
+}
+section.main {
 	position: absolute;
 	top: 10px;
 	right: 10px;
 	margin: 5px;
+}
+section.s_home {
+	background: url('../img/img1.png') no-repeat;
+}
+div.s_home_wrapper {
+	height: 350px;
+	width: 294px;
+}
+div.s_home_head {
+	background: url('../img/s_bg.png') no-repeat;
+	height: 90px;
+	width: 294px;
 }
 footer {
 	position: absolute;
