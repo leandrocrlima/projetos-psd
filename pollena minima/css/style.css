@@ -65,6 +65,7 @@ section.s_home {
 	background: url('../img/img1.png') no-repeat;
 }
 div.s_home_wrapper {
+	position: relative;
 	height: 350px;
 	width: 294px;
 }
@@ -72,6 +73,19 @@ div.s_home_head {
 	background: url('../img/s_bg.png') no-repeat;
 	height: 90px;
 	width: 294px;
+}
+div.s_home_head h1 {
+	padding: 0;
+	font-size: 48px;
+	line-height: 1.9;
+	margin-left: 29px;
+}
+div.s_home_head p {
+	font-size: 12px;
+	width: 200px;
+	position: absolute;
+	right: 0;
+	top: 0;
 }
 footer {
 	position: absolute;
