@@ -2,7 +2,7 @@
 body {
     background: url('../img/bg.jpg') no-repeat top center;
     background-size: cover;
-    font-family: 'arial';
+    font-family: 'open sans';
 }
 a {
 	text-decoration: none;
