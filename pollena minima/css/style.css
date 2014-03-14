@@ -3,6 +3,7 @@ body {
     background: url('../img/bg.jpg') no-repeat top center;
     background-size: cover;
     font-family: 'opensansregular';
+    font-size: 12px;
 }
 a {
 	text-decoration: none;
@@ -47,6 +48,8 @@ nav ul li {
 }
 nav ul li a {
 	padding: 0 69px;
+	font-family: 'opensanslight';
+	text-transform: uppercase;
 }
 .com_fundo {
 	background: url('../img/fundo.png') no-repeat;
@@ -78,10 +81,9 @@ div.s_home_head h1 {
 	padding: 0;
 	font-size: 48px;
 	line-height: 1.9;
-	margin-left: 29px;
+	margin-left: 25px;
 }
 div.s_home_head p {
-	font-size: 12px;
 	width: 200px;
 	position: absolute;
 	right: 0;
