@@ -66,11 +66,14 @@ section.main {
 }
 section.s_home {
 	background: url('../img/img1.png') no-repeat;
+	position: relative;
 }
 div.s_home_wrapper {
-	position: relative;
+	position: absolute;
 	height: 350px;
 	width: 294px;
+	right: 0;
+	top: 72px;
 }
 div.s_home_head {
 	background: url('../img/s_bg.png') no-repeat;
