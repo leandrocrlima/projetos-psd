@@ -70,7 +70,7 @@ section.s_home {
 }
 div.s_home_wrapper {
 	position: absolute;
-	height: 350px;
+	height: 360px;
 	width: 294px;
 	right: 0;
 	top: 72px;
@@ -79,18 +79,35 @@ div.s_home_head {
 	background: url('../img/s_bg.png') no-repeat;
 	height: 90px;
 	width: 294px;
+	z-index: 1;
+	position: relative;
 }
 div.s_home_head h1 {
 	padding: 0;
 	font-size: 48px;
 	line-height: 1.9;
 	margin-left: 25px;
+	color: #fdfdfd;
 }
 div.s_home_head p {
 	width: 200px;
 	position: absolute;
 	right: 0;
-	top: 0;
+	top: 13px;
+	line-height: 1.4;
+	color: #8a91a5;
+}
+div.s_home_main {
+	background: url('../img/s_bg2.png') no-repeat;
+	position: relative;
+	height: 269px;
+	width: 273px;
+	margin: -7px auto 0;
+	z-index: 0;
+}
+div.s_home_main p {
+	padding-top: 20px;
+	color: #fdfdfd;
 }
 footer {
 	position: absolute;
