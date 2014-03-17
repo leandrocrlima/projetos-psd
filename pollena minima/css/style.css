@@ -21,6 +21,7 @@ body {
 }
 header {
 	width: 197px;
+	margin-top: 10px;
 }
 header h1 {
 	text-indent: -9999px;
